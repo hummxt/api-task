@@ -1,0 +1,14 @@
+{
+    "users": [
+        { "id": "1a2b3c4d5e", "name": "John", "surname": "Doe", "salary": 50000 },
+        { "id": "6f7g8h9i0j", "name": "Jane", "surname": "Smith", "salary": 60000 },
+        { "id": "k1l2m3n4o5", "name": "Michael", "surname": "Johnson", "salary": 55000 },
+        { "id": "p6q7r8s9t0", "name": "Emily", "surname": "Davis", "salary": 58000 },
+        { "id": "u1v2w3x4y5", "name": "Robert", "surname": "Brown", "salary": 62000 },
+        { "id": "z6a7b8c9d0", "name": "Laura", "surname": "Wilson", "salary": 53000 },
+        { "id": "e1f2g3h4i5", "name": "David", "surname": "Garcia", "salary": 59000 },
+        { "id": "j6k7l8m9n0", "name": "Linda", "surname": "Martinez", "salary": 61000 },
+        { "id": "o1p2q3r4s5", "name": "James", "surname": "Lopez", "salary": 57500 },
+        { "id": "t6u7v8w9x0", "name": "Patricia", "surname": "Gonzalez", "salary": 62500 }
+    ]
+}
